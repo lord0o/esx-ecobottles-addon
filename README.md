@@ -1,4 +1,4 @@
-# esx-ecobottles-addon
+# esx-ecobottles-addon WORK IN  PROGRESS
 An addon for ecobottles, it will let you scavenge from binbags. THIS IS NOT MY SCRIPT, Only My modifications.
 
 
